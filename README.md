@@ -1,8 +1,8 @@
-# [EmailHelper](https://email-helper.vercel.app/)
+# [EmailHelper](https://email.neday.cn/)
 
 This project generates emails for you using AI.
 
-[![](./public/screenshot3.png)](https://email-helper.vercel.app/)
+[![](./public/screenshot3.png)](https://email.neday.cn/)
 
 ## Support
 `English`, `Simplified Chinese`, `Traditional Chinese`, `Japanese`, `Italian`, `German`, `Spanish`,`French`,`Dutch` ,`Korean`,`Khmer`, `Hindi`
@@ -33,6 +33,6 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shengxinjing/email-helper&env=OPENAI_API_KEY&project-name=email-helper&repo-name=EmailHelper)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nEdAy/email-helper&env=OPENAI_API_KEY&project-name=email-helper&repo-name=EmailHelper)
 
 <!-- https://www.seotraininglondon.org/gpt3-business-email-generator/ -->
